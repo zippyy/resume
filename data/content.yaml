@@ -15,26 +15,14 @@ BasicInfo:
 Profile: My name is Nicholas T. Bennett. I have been in IT for just over 17 years, with a strong skillset in Virtualization, MS 365/Intune/AAD and Active Directory,  It is my biggest passion oustide of travel, I have spent most of my life growing up overseas and have been to 65+ countries so far across 4 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. <br> <br> For my Home Lab and Home Production I have two 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-Metal Linix Hosts running things like stand alone services/applications as well as a Docker swarm cluster. 
 
 Experience:
-  - Employer: Super Coole Firma
-    Place: Oxford, UK
+  - Employer: Resultant
+    Place: Colorado Springs, CO, USA
     Positions:
-      - Title: Software Entwicklerin
-        Date: Jan 2020 - Jetzt
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Testerin
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+      - Title: Systems Administrator Mid-Market
+        Date: April 2021 - November 2022
+        Details: 
+          - Focus mainly on one client that is a city government with a heavy vmware and Azure/Intune/o365 environment, Ocasionally will Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.
+        Badges: ['AD', 'AAD', 'Azure', 'Powershell', 'vmware', 'Office365', 'Automation']
   - Employer: Eine andere Supertolle Firma
     Place: Lisbon, PT
     Positions:
