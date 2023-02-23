@@ -6,8 +6,8 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://example.com/"
-title = "Example - CV"
+baseURL = "https://cv.nbennett.xyz"
+title = "Nicholas Bennett - CV"
 #googleAnalytics = ""
 
 [params]
