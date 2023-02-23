@@ -4,101 +4,124 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +1 719 466 4808
+      Info: <a href="tel:17194664808">+1 719-466-4808</a>
     - Icon: fas fa-envelope
-      Info: nick@bennett.lol
+      Info: <a href="mailto:nick@bennett.lol">nick@bennett.lol</a>
     - Icon: fas fa-globe
-      Info: nbennett.xyz
+      Info: <a href="https://nbennett.xyz">https://nbennett.xyz</a>
     - Icon: fas fa-map-marker-alt
-      Info: USA
+      Info: Colorado, US
 
-Profile: My name is Nicholas T. Bennett. I have been in IT for just over 17 years, with a strong skillset in Virtualization, MS 365/Intune/AAD and Active Directory,  It is my biggest passion oustide of travel, I have spent most of my life growing up overseas and have been to 65+ countries so far across 4 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. <br> <br> For my Home Lab and Home Production I have two 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-Metal Linix Hosts running things like stand alone services/applications as well as a Docker swarm cluster. 
+Profile: My name is Nicholas T. Bennett. I have been in IT for just over 17 years, with a strong skillset in Virtualization, MS 365/Intune/AAD and Active Directory,  It is my biggest passion oustide of travel. I have spent most of my life growing up overseas and have been to 65+ countries so far across 4 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. <br> <br> For my Home Lab and Home Production I have two 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-metal Linix Hosts running things like stand alone services/applications as well as a Docker swarm cluster. 
 
 Experience:
   - Employer: Resultant
-    Place: Colorado Springs, CO, USA
+    Place: Colorado
     Positions:
       - Title: Systems Administrator Mid-Market
-        Date: April 2021 - November 2022
+        Date: Sept 2021 - Nov. 2022
         Details: 
           - Focus mainly on one client that is a city government with a heavy vmware and Azure/Intune/o365 environment, Ocasionally will Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.
         Badges: ['AD', 'AAD', 'Azure', 'Powershell', 'vmware', 'Office365', 'Automation']
-  - Employer: Eine andere Supertolle Firma
-    Place: Lisbon, PT
+  - Employer: Gallop Technology
+    Place: Arizona
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Systems Administrator - Contract to hire
+        Date: April 2021 - Aug. 2021
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+          - Manage clients, Perform Maintainance, Impliment infrastructure, Light Dispatching, Onsite travel, overall general sysadmin tasks on top of project work. Mainly on-prem AD, AzureAD/Intune/o365, Vmware Virtualization
+        Badges: ['AD', 'AAD', 'Azure', 'Powershell', 'vmware', 'Office365', 'Automation']
+  - Employer: Garden of the Gods Collection
+    Place: Colorado
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Systems Administrator
+        Date: Feb. 2019 - April 2021
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Maintain Infrastructure including Hyper-Visors, Server, Firewalls, Switches, Routers, End User Hardware, IT Ticket System. Diagnose and Troubleshoot Infrastructure and End User issues as needed. Build and Deploy Systems. Maintain on-call Protocols and Procedures. Build, Deploy, Manage Docker environment. Troubleshoot Audio and Video Systems. Maintain and troubleshoot Salto Access Control, Maintain and Resolve End User Tickets. Also provided support for an onsite Medical Wellness Center and Medical Billing company. Deploy and Maintain Infrastructure for GPON System. Manage and maintain Office 365 with Azure AD hyrbid and intune.
+        Badges: ['AD', 'AAD', 'Azure', 'Powershell', 'vmware', 'Office365', 'Automation', 'POS Systems', 'VOIP', 'Terminal Services']
+  - Employer: Safety Station & Ink182
+    Place: Colorado
+    Positions:
+      - Title: Systems Administrator
+        Date: March 2016 - Feb. 2019
+        Details:
+          - Designed the Infrastructure from scratch, Built out servers, firewalls, routers, and switches, Deployed entire infrastructure, maintain and troubleshoot as needed. Deployed hybrid aad/o365 fron scratch. Manage and maintain Cloud infrastructure
+        Badges: ['AD', 'AAD', 'Azure', 'vmware', 'Office365', 'POS Systems', 'VOIP', 'Terminal Services']    
+  - Employer: Colorado iPhone Repair
+    Place: Colorado
+    Positions: 
+      - Title: Lead iOS/MacOS Technician
+        Date: Dec. 2014 - March 2016
+        Details: 
+          - Diagnose, Troubleshoot, and Repair various iOS, Macintosh and other devices as well as oversee the other technicians and office clerical duties.
+        Bades: ['iOS', 'MacOS', 'Repair', 'Troubleshoot', 'Diagnose']
+  - Employer: Tech Relay
+    Place: Colorado
+    Positions: 
+      - Title: Consultant - Self Employed
+        Date: Jan. 2013 - Present
+        Details: 
+          - Design, Build, Deploy, and Maintain Infrastructure. Migrate on-prem to cloud offerings like azure/365. Strong focus on Intune, AzureAD (on prem AD as well) and office 365 General Support and Maintainance.
+        Badges: ['AD', 'AAD', 'Azure', 'Powershell', 'vmware', 'Office365', 'Automation', 'POS Systems', 'VOIP', 'Terminal Services']      
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: B.S. in Computer Science
+    Place: Cairo American University
 
 Skills:
   - Family: Programming
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
+      - Powershell
+      - (2 Years Experience)
+  - Family: Cloud/Directory Services
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
+      - On-Prem AD
+      - Azure AD
+      - Intune
+      - Office365/MS365
+      - (10+ Years Experience)
+  - Family: Certifications 
     Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
+      - A+
+      - Network+
+      - Security+
+      - MSCA/MCSE
+      - ACMT
   - Family: Misc
     Items:
       - Adobe Tools
       - LaTeX
-
+      - MS Office Suite
+      - Git
+      - Docker
+      - MacOS
+      - iOS
+      - SIP & PBX
+      - Cabling & Terminations
+      - Various Datacenter skills
+      - Windows Administration
+      - Basic Web Dev skillset
+      - 
 Languages:
-  - Name: Portuguese
-    Level: Native
   - Name: English
-    Level: C2
-  - Name: Spanish
+    Level: Native
+  - Name: Arabic
     Level: B1
-  - Name: German
-    Level: B1
+  - Name: Hebrew
+    Level: A2
+  - Name: Chinese
+    Level: A1
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - IB Certificate
+  - Cairo American College
+
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
+  - Travel
+  - Video Games
+  - Films and Music
+  - Home Lab
   - Languages
+  - Technology
+  
