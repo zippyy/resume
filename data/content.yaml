@@ -8,9 +8,9 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: <a href="mailto:nick@bennett.lol">nick@bennett.lol</a>
     - Icon: fas fa-globe
-      Info: <a href="https://nbennett.xyz">https://nbennett.xyz</a>
+      Info: <a href="https://nbennett.xyz">nbennett.xyz</a>
     - Icon: fas fa-terminal
-      Info: <a href="https://github.com/zippyy">https://github.com/zippyy</a>
+      Info: <a href="https://github.com/zippyy">github.com/zippyy</a>
     - Icon: fas fa-map-marker-alt
       Info: Colorado, US
     - Icon: fas fa-building
