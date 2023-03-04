@@ -9,6 +9,8 @@ BasicInfo:
       Info: <a href="mailto:nick@bennett.lol">nick@bennett.lol</a>
     - Icon: fas fa-globe
       Info: <a href="https://nbennett.xyz">https://nbennett.xyz</a>
+    - Icon: fas fa-github
+      Info: ntbennett
     - Icon: fas fa-map-marker-alt
       Info: Colorado, US
     - Icon: fas fa-building
