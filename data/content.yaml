@@ -77,7 +77,8 @@ Skills:
     Items:
       - Powershell
       - (2 Years Experience)
-  - Family: Virtualization/Copntainerization
+  - Family: Virtualization/Containers
+    Items:
       - vmWare
       - Citrix
       - Hyper-V
