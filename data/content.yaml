@@ -72,14 +72,20 @@ Education:
   - Course: B.S. in Computer Science
     Place: Cairo American University
 
-Skils Continued:
-  - Languages: Basics of Powershell and SQL.
-
 Skills:
   - Family: Programming
     Items:
       - Powershell
       - (2 Years Experience)
+  - Family: Virtualization/Copntainerization
+      - vmWare
+      - Citrix
+      - Hyper-V
+      - Proxmox
+      - KVM/QEMU
+      - Docker
+      - NixOS
+      - LXC
   - Family: Cloud/Directory Services
     Items:
       - On-Prem AD
