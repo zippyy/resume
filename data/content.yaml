@@ -11,7 +11,7 @@ BasicInfo:
       Info: <a href="https://nbennett.xyz">https://nbennett.xyz</a>
     - Icon: fas fa-map-marker-alt
       Info: Colorado, US
-    - Icon: fas fa-computer-classic
+    - Icon: fas fa-building
       Info: Fully Remote
 
 Profile: My name is Nicholas T. Bennett. I have been in IT for just over 17 years, with a strong skillset in Virtualization, MS 365/Intune/AAD and Active Directory,  It is my biggest passion oustide of travel. I have spent most of my life growing up overseas and have been to 65+ countries so far across 4 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. <br> <br> For my Home Lab and Home Production I have two 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through-out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-metal Linix Hosts running things like stand alone services/applications as well as a Docker swarm cluster. 
