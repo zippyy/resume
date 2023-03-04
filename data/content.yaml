@@ -10,7 +10,7 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: <a href="https://nbennett.xyz">https://nbennett.xyz</a>
     - Icon: fas fa-terminal
-      Info: ntbennett
+      Info: <a href="https://github.com/ntbennett">ntbennett</a>
     - Icon: fas fa-map-marker-alt
       Info: Colorado, US
     - Icon: fas fa-building
