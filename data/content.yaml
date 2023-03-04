@@ -11,6 +11,8 @@ BasicInfo:
       Info: <a href="https://nbennett.xyz">https://nbennett.xyz</a>
     - Icon: fas fa-terminal
       Info: <a href="https://github.com/zippyy">https://github.com/zippyy</a>
+    - Icon: fas fa-github-alt
+      Info: Test
     - Icon: fas fa-map-marker-alt
       Info: Colorado, US
     - Icon: fas fa-building
