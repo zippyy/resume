@@ -12,7 +12,7 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Colorado, US
 
-Profile: My name is Nicholas T. Bennett. I have been in IT for just over 17 years, with a strong skillset in Virtualization, MS 365/Intune/AAD and Active Directory,  It is my biggest passion oustide of travel. I have spent most of my life growing up overseas and have been to 65+ countries so far across 4 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. <br> <br> For my Home Lab and Home Production I have two 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-metal Linix Hosts running things like stand alone services/applications as well as a Docker swarm cluster. 
+Profile: My name is Nicholas T. Bennett. I have been in IT for just over 17 years, with a strong skillset in Virtualization, MS 365/Intune/AAD and Active Directory,  It is my biggest passion oustide of travel. I have spent most of my life growing up overseas and have been to 65+ countries so far across 4 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. <br> <br> For my Home Lab and Home Production I have two 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through-out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-metal Linix Hosts running things like stand alone services/applications as well as a Docker swarm cluster. 
 
 Experience:
   - Employer: Resultant
@@ -20,16 +20,17 @@ Experience:
     Positions:
       - Title: Systems Administrator Mid-Market
         Date: Sept 2021 - Nov. 2022
-        Details: 
+        Details:
+          - <b>(Fully Remote)</b> 
           - Focus mainly on one client that is a city government with a heavy vmware and Azure/Intune/o365 environment, Ocasionally will Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.
         Badges: ['AD', 'AAD', 'Azure', 'Powershell', 'vmware', 'Office365', 'Automation']
   - Employer: Gallop Technology
     Place: Arizona
     Positions:
-      - Title: Systems Administrator - Contract to hire
+      - Title: Systems Administrator - Contract 
         Date: April 2021 - Aug. 2021
         Details:
-          - Manage clients, Perform Maintainance, Impliment infrastructure, Light Dispatching, Onsite travel, overall general sysadmin tasks on top of project work. Mainly on-prem AD, AzureAD/Intune/o365, Vmware Virtualization
+          - Manage clients, Perform Maintainance, Impliment infrastructure, Light Dispatching, Onsite travel, overall general sysadmin tasks on top of project work. Mainly on-prem AD, AzureAD/Intune/o365, Vmware Virtualization.
         Badges: ['AD', 'AAD', 'Azure', 'Powershell', 'vmware', 'Office365', 'Automation']
   - Employer: Garden of the Gods Collection
     Place: Colorado
@@ -45,7 +46,7 @@ Experience:
       - Title: Systems Administrator
         Date: March 2016 - Feb. 2019
         Details:
-          - Designed the Infrastructure from scratch, Built out servers, firewalls, routers, and switches, Deployed entire infrastructure, maintain and troubleshoot as needed. Deployed hybrid aad/o365 fron scratch. Manage and maintain Cloud infrastructure
+          - Designed the Infrastructure from scratch, Built out servers, firewalls, routers, and switches, Deployed entire infrastructure, maintain and troubleshoot as needed. Deployed hybrid aad/o365 fron scratch. Manage and maintain Cloud infrastructure.
         Badges: ['AD', 'AAD', 'Azure', 'vmware', 'Office365', 'POS Systems', 'VOIP', 'Terminal Services']    
   - Employer: Colorado iPhone Repair
     Place: Colorado
@@ -61,7 +62,7 @@ Experience:
       - Title: Consultant - Self Employed
         Date: Jan. 2013 - Present
         Details: 
-          - Design, Build, Deploy, and Maintain Infrastructure. Migrate on-prem to cloud offerings like azure/365. Strong focus on Intune, AzureAD (on prem AD as well) and office 365 General Support and Maintainance.
+          - Design, Build, Deploy, and Maintain Infrastructure. Migrate on-prem to cloud offerings like azure/365. Strong focus on Intune, AzureAD (on prem AD as well) and office 365 General Support and Maintainance. Penetration/Vulnerability testing and Bug Hunting. Red/Blue Team.
         Badges: ['AD', 'AAD', 'Azure', 'Powershell', 'vmware', 'Office365', 'Automation', 'POS Systems', 'VOIP', 'Terminal Services']      
 
 Education:
@@ -101,7 +102,9 @@ Skills:
       - Various Datacenter skills
       - Windows Administration
       - Basic Web Dev skillset
-      - 
+      - Penetration Testing
+      - Bug Bounty/Hunting
+      - Red Team
 Languages:
   - Name: English
     Level: Native
